@@ -1,9 +1,24 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnneSevero&show_icons=true&theme=radical)
-##
-<div style="display: inline_block"><br>
-  <img align="center" alt="IconJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="IconHtml5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="IconCss3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+# Anne Caroline Pereira Severo
+### Olá! Eu sou a Anne e seja bem-vindo ao meu Github 🚀
 
- <img align="right" alt="GifBmo" height="40" width="40" src="https://pa1.aminoapps.com/6224/94355a02de884bcd818c48bc0e49982484176449_hq.gif" alt="totoro">
-</div>
+## Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DCA000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anneseevero/)
+[![Gmail](https://img.shields.io/badge/Gmail-DCA000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:caroline.psevero@gmail.com)
+
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-DCA000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-DCA000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-DCA000?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-DCA000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-DCA000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/React-DCA000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-DCA000?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-DCA000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-DCA000?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-DCA000?style=for-the-badge&logo=figma&logoColor=figma)
+![Vscode](https://img.shields.io/badge/Vscode-DCA000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=&border_color=DCA000&show_icons=true&icon_color=DCA000&title_color=DCA000&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&theme=transparent&bg_color=&border_color=DCA000&title_color=DCA000&text_color=FFF)
