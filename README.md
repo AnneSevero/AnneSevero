@@ -19,6 +19,6 @@
 ![Vscode](https://img.shields.io/badge/Vscode-DCA000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=&border_color=DCA000&show_icons=true&icon_color=DCA000&title_color=DCA000&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnneSevero&theme=transparent&bg_color=&border_color=DCA000&show_icons=true&icon_color=DCA000&title_color=DCA000&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&theme=transparent&bg_color=&border_color=DCA000&title_color=DCA000&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnneSevero&theme=transparent&bg_color=&border_color=DCA000&title_color=DCA000&text_color=FFF)
